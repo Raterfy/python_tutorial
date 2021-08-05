@@ -55,5 +55,5 @@ num_4 = int(num_4)
 
 print(num_3 + num_4)
 # print(num_3 + num_4) = 100200 bc strings
-# si on a des nombre entier integer and a strings we can use the syntaxe int 
+# si on a des nombre entier integer and a strings we can use the syntaxe 'int' 
 # pour créer un nombre entier
