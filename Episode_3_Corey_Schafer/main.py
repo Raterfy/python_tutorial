@@ -46,6 +46,7 @@ num_1 = 3
 num_2 = 2
 
 print(num_1 != num_2)
+# ça donne True
 
 num_3 = "100"
 num_4 = "200"
