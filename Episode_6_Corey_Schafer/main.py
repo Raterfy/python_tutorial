@@ -62,7 +62,7 @@ if not logged_in:
     print("Please Log In")
 else:
     print("Welcome")
-# la not inverse tout si c'est vrai alors ça devient faux et si c'est faux 
+# là not inverse tout si c'est vrai alors ça devient faux et si c'est faux 
 # ça devient vrai
 
 a = [1, 2, 3]
