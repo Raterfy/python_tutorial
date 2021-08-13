@@ -2,7 +2,6 @@ import os
 
 print(dir(os))
 """cette commande pour voir toute les commandes de os"""
-print(os.getcwd())
 
 os.chdir("/home/raterfy/python_tutorial/")
 """cette commande pour changer de directory"""
