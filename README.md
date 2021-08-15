@@ -10,10 +10,10 @@
 - Episode 9: Import Modules and Exploring The Standard Library
 - Episode 10: OS Module - Use Underlying Operating System Functionality
 - Episode 11: File Objects - Reading and Writing to Files
-- Episode 14:
-- Episode 15:
-- Episode 16:
-- Episode 17:
-- Episode 18:
-- Episode 19:
-- Episode 20:
+- Episode 14: Automate Parsing and Renaming of Multiple Files
+- Episode 15: Module CSV - Comment lire, analyser et écrire des fichiers CSV
+- Episode 16: Real World Example - Parsing Names From a CSV to an HTML List
+- Episode 17: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones
+- Episode 18: Variable Scope - Understanding the LEGB rule and global/nonlocal statements
+- Episode 19: Sorting Lists, Tuples, and Objects
+- Episode 20: Using Try/Except Blocks for Error Handling
